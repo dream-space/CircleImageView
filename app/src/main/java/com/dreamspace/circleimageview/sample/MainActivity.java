@@ -1,7 +1,9 @@
-package de.hdodenhof.circleimageview.sample;
+package com.dreamspace.circleimageview.sample;
 
 import android.app.Activity;
 import android.os.Bundle;
+
+import de.hdodenhof.circleimageview.sample.R;
 
 public class MainActivity extends Activity {
 
